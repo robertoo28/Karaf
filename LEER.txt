@@ -1,0 +1,4 @@
+Pude implementar dos bundle y que un segundo bundle este acoplado a un primer bundle. Pero no pude hacer que sea independiente uno del otro. Aquí le mando, junto una aclaración del que el segundo bundle, esta dentro de la carpeta del bundle 1. En la parte de src, main java y ahí encontrara mi segundo bundle. Puede ver los códigos y ver que están implementados correctamente, pero si paro el service 1, el service 2 ya no arranca por si solo. Como demostración por si no le compila le dejo un link a un vídeo en loom que grabe del funcionamiento.
+
+https://www.loom.com/share/181dd12e9f7f4d168e7aa2916293f68c?sid=300bb86f-4ef6-43fa-8c34-adb21f7e4c31
+
